@@ -14,8 +14,7 @@ const FeatureList: FeatureItem[] = [
     Svg: require('@site/static/img/undraw_docusaurus_mountain.svg').default,
     description: (
       <>
-        Docusaurus was designed from the ground up to be easily installed and
-        used to get your website up and running quickly.
+        Core technologies are sectioned up so that reference can be made as a playbook
       </>
     ),
   },
@@ -24,18 +23,17 @@ const FeatureList: FeatureItem[] = [
     Svg: require('@site/static/img/undraw_docusaurus_tree.svg').default,
     description: (
       <>
-        Docusaurus lets you focus on your docs, and we&apos;ll do the chores. Go
-        ahead and move your docs into the <code>docs</code> directory.
+        We only highlight the core technologies to get you up and running quickly
       </>
     ),
   },
   {
-    title: 'Powered by React',
+    title: 'Powered by Community',
     Svg: require('@site/static/img/undraw_docusaurus_react.svg').default,
     description: (
       <>
-        Extend or customize your website layout by reusing React. Docusaurus can
-        be extended while reusing the same header and footer.
+        This is a community project, by the community and for the community. 
+        If you see an issue raise a PR and we will try fix it ASAP.
       </>
     ),
   },
