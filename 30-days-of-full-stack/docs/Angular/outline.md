@@ -4,7 +4,6 @@ sidebar_position: 1
 
 # Outline
 
-
 ## Prerequisites
 
 To use the Angular framework, you should be familiar with the following:
