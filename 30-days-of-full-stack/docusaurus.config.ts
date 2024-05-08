@@ -38,7 +38,7 @@ const config: Config = {
           // Please change this to your repo.
           // Remove this to remove the "edit this page" links.
           editUrl:
-            'https://github.com/bailzbrooke16/30-days-of-full-stack',
+            'https://github.com/bailzbrooke16/30-days-of-full-stack/blob/main/30-days-of-full-stack',
         },
         theme: {
           customCss: './src/css/custom.css',
@@ -64,7 +64,7 @@ const config: Config = {
           label: 'Playbook',
         },
         {
-          href: 'https://github.com/bailzbrooke16/30-days-of-full-stack',
+          href: 'https://github.com/bailzbrooke16/30-days-of-full-stack/blob/main/30-days-of-full-stack',
           label: 'GitHub',
           position: 'right',
         },
