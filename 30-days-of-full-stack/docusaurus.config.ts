@@ -61,7 +61,7 @@ const config: Config = {
           type: 'docSidebar',
           sidebarId: 'tutorialSidebar',
           position: 'left',
-          label: 'Tutorial',
+          label: 'Playbook',
         },
         {
           href: 'https://github.com/bailzbrooke16/30-days-of-full-stack',
